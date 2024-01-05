@@ -1,3 +1,8 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/virendra2000/virendra2000/assets/67411213/d3b71583-f0a2-465e-8282-213d269b6e8b)
+
+![output-onlinepngtools](https://github.com/virendra2000/virendra2000/assets/67411213/a8170a72-5558-43f2-90f1-bb4d0e7ed9e5)
+
+
 <h1 align="center">Hi 👋, I'm Virendra Kalwar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
