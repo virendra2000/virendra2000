@@ -2,9 +2,6 @@
 <div align="center" style="border-radius:28;">
   <img height="160px" src="https://github.com/virendra2000/virendra2000/assets/67411213/8e25bdd9-a02a-448b-8896-5c737cd45fdf">
 </div>
-![output-onlinepngtools](https://github.com/virendra2000/virendra2000/assets/67411213/8e25bdd9-a02a-448b-8896-5c737cd45fdf)
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
