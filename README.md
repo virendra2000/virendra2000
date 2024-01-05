@@ -1,5 +1,4 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/virendra2000/virendra2000/assets/67411213/bfe8f51b-eb59-4196-a28f-de50791a0b4f)
-![image](https://github.com/virendra2000/virendra2000/assets/67411213/131c227f-6d6e-4d6c-a75a-410c7b4f336e)
 <div align="center">
   <img src="https://github.com/virendra2000/virendra2000/assets/67411213/131c227f-6d6e-4d6c-a75a-410c7b4f336e">
 </div>
